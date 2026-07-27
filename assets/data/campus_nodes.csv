@@ -1,0 +1,94 @@
+﻿id,name,latitude,longitude,local_x_m,local_y_m,building,floor,type,is_destination,is_decision_point,qr_code,reference_heading,validation_status,notes
+camino_001,Punto de ruta 1,-0.9987425906643479,-78.58595408078,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_002,Punto de ruta 2,-0.9987268345413393,-78.58579299174309,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_003,Punto de ruta 3,-0.9987071549098678,-78.58555451910932,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_004,Punto de ruta 4,-0.99867908913689,-78.58539231399222,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_005,Punto de ruta 5,-0.9985080544817155,-78.58538825487837,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_006,Punto de ruta 6,-0.9984347828895892,-78.58527039240153,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_007,Punto de ruta 7,-0.9983165550789146,-78.58528256068537,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_008,Punto de ruta 8,-0.9982713555379625,-78.58488659575914,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_009,Punto de ruta 9,-0.9982219155631918,-78.5845339096737,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_010,Punto de ruta 10,-0.9981972477630443,-78.58423040090263,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_011,Punto de ruta 11,-0.9981724696857707,-78.5839508064063,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_012,Punto de ruta 12,-0.9981557000330521,-78.58376023609958,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_013,Punto de ruta 13,-0.9981514347924838,-78.5836484546935,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_014,Punto de ruta 14,-0.9981248583614634,-78.58362132767974,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_015,Punto de ruta 15,-0.9980567105696843,-78.58362625829376,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_016,Punto de ruta 16,-0.9982499324864593,-78.5836518018851,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_017,Punto de ruta 17,-0.9983199096915469,-78.58360657945927,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_018,Punto de ruta 18,-0.9983611778153143,-78.58354896413044,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_019,Punto de ruta 19,-0.9983326582611611,-78.58337171457384,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_020,Punto de ruta 20,-0.998308070344121,-78.58318602984312,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_021,Punto de ruta 21,-0.998291744437157,-78.58304535754772,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_022,Punto de ruta 22,-0.9982669957157669,-78.58287201289984,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_023,Punto de ruta 23,-0.9982546408551463,-78.58274807856485,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_024,Punto de ruta 24,-0.9983701887324523,-78.58273569630066,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_025,Punto de ruta 25,-0.9984354186953579,-78.583636525671,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_026,Punto de ruta 26,-0.9984557559298987,-78.58380447298123,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_027,Punto de ruta 27,-0.998636951324756,-78.58378462681351,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_028,Punto de ruta 28,-0.9983491568979755,-78.5836440778578,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_029,Punto de ruta 29,-0.9983531474908642,-78.58375517782989,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_030,Punto de ruta 30,-0.9983653153097669,-78.58390712085264,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_031,Punto de ruta 31,-0.9983694056438748,-78.58401792013858,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_032,Punto de ruta 32,-0.9983776229636637,-78.58415337004065,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_033,Punto de ruta 33,-0.9984719758138222,-78.58415743782393,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_034,Punto de ruta 34,-0.9979625461205041,-78.58363626157659,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_035,Punto de ruta 35,-0.9979574374991633,-78.58357467068602,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_036,Punto de ruta 36,-0.9979507705052856,-78.58351184722632,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_037,Punto de ruta 37,-0.9979458159319922,-78.58346816518676,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_038,Punto de ruta 38,-0.9979098189186516,-78.58345979386107,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_039,Punto de ruta 39,-0.9977800260443753,-78.58347204460506,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_040,Punto de ruta 40,-0.9975994599365177,-78.58349379904642,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_041,Punto de ruta 41,-0.9975894773869526,-78.58343647862509,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_042,Punto de ruta 42,-0.9975199580634239,-78.5833751453078,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_043,Punto de ruta 43,-0.9974897721617665,-78.58335344026662,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_044,Punto de ruta 44,-0.997453386862059,-78.5833202178929,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_045,Punto de ruta 45,-0.9974973618095331,-78.58329862500003,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_046,Punto de ruta 46,-0.9974835695068256,-78.58324414320705,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_047,Punto de ruta 47,-0.9974607740750496,-78.58318283636994,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_048,Punto de ruta 48,-0.9974748504132286,-78.58310093066102,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_049,Punto de ruta 49,-0.9980219236393703,-78.58351581756168,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_050,Punto de ruta 50,-0.9980773390294182,-78.58350174257302,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_051,Punto de ruta 51,-0.9981256234456738,-78.58348966878802,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_052,Punto de ruta 52,-0.9981357607829205,-78.58340263586406,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_053,Punto de ruta 53,-0.9981251335924677,-78.58331963144049,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_054,Punto de ruta 54,-0.998114214791752,-78.5832327121824,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_055,Punto de ruta 55,-0.998105663337255,-78.5831576429905,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_056,Punto de ruta 56,-0.9980935518780543,-78.5830865619031,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_057,Punto de ruta 57,-0.9980932362864762,-78.58302038767357,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_058,Punto de ruta 58,-0.9981316722954668,-78.5829538434765,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_059,Punto de ruta 59,-0.998155285420838,-78.58286515378599,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_060,Punto de ruta 60,-0.99819628131656,-78.58279960997328,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_061,Punto de ruta 61,-0.9975549512763527,-78.58306357404915,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_062,Punto de ruta 62,-0.9975692852599742,-78.58313036709723,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_063,Punto de ruta 63,-0.9976472225296782,-78.5831163796118,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_064,Punto de ruta 64,-0.9977533105287016,-78.58309710762641,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_065,Punto de ruta 65,-0.9978429933121336,-78.58307324234497,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_066,Punto de ruta 66,-0.9979152062890915,-78.58303489883124,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_067,Punto de ruta 67,-0.9979860195063541,-78.58300659856545,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_068,Punto de ruta 68,-0.9981708217318654,-78.58276298981448,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_069,Punto de ruta 69,-0.9982163141248277,-78.5827533170257,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_070,Punto de ruta 70,-0.9974819509201075,-78.58350508390905,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_071,Punto de ruta 71,-0.9973463466569719,-78.58352753398833,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_072,Punto de ruta 72,-0.9972741211595828,-78.58353773157273,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_073,Punto de ruta 73,-0.9971843087282427,-78.58354677197114,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_074,Punto de ruta 74,-0.9971277578236662,-78.58330619995594,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_075,Punto de ruta 75,-0.9970881506304585,-78.58306000537794,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_076,Punto de ruta 76,-0.9970659257343895,-78.58295632803927,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_077,Punto de ruta 77,-0.9969395553836382,-78.58298413363661,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_078,Punto de ruta 78,-0.9972081379940912,-78.58366701980238,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+camino_079,Punto de ruta 79,-0.9970781130467155,-78.58368001288763,,,Exterior,0,waypoint,false,false,,,validado_desde_kml,Vértice importado de las rutas del mapa KML.
+entrada_universidad,Entrada principal,-0.998758718754268,-78.58595860136566,,,Exterior,0,entrance,true,false,,,validado_desde_kml,"Acceso principal al campus ESPE Belisario Quevedo. Punto inicial y final para las rutas hacia el edificio principal, laboratorios y áreas deportivas."
+entrada_edificio_principal,Edificio principal,-0.9980475979175022,-78.5836287763149,,,Exterior,0,entrance,true,false,,,validado_desde_kml,"Acceso principal al edificio central de la universidad. Desde este punto se puede continuar hacia UTICS, biblioteca, bar y otros serviciosLL"
+cruce_principal_laboratorios,Cruce principal–laboratorios,-0.9981594951513775,-78.58364768409716,,,Exterior,0,junction,false,true,,,validado_desde_kml,Cruce principal de navegación. Permite continuar hacia el edificio principal o desviarse hacia los laboratorios. Conviene renombrarlo como Cruce edificio principal–laboratorios .
+laboratorio_electronica,Laboratorio de Electrónica y Telecomunicaciones,-0.9982463874159303,-78.58266553178376,,,Exterior,0,destination,true,false,,,validado_desde_kml,Acceso exterior al laboratorio de Electrónica y Telecomunicaciones.
+laboratorio_computacion,Laboratorio de Ciencias de la Computación,-0.9984692794192004,-78.58263238033042,,,Exterior,0,destination,true,false,,,validado_desde_kml,Acceso exterior al Laboratorio de Ciencias de la Computación.
+plazoleta,Plazoleta,-0.9986782301297035,-78.58377253487572,,,Exterior,0,destination,true,false,,,validado_desde_kml,"Espacio central exterior utilizado para reuniones, eventos y minutos cívicos."
+cancha_1,Cancha 1,-0.9986937592176673,-78.58413294971754,,,Exterior,0,destination,true,false,,,validado_desde_kml,Cancha deportiva ubicada junto a la plazoleta y al edificio principal.
+utics,Departamento UTICS,-0.9979011440069784,-78.5836627433229,,,Exterior,0,destination,true,false,,,validado_desde_kml,Área correspondiente al Departamento de Tecnologías de la Información y Comunicación.
+biblioteca,Biblioteca,-0.9978467219445676,-78.58344682839405,,,Exterior,0,destination,true,false,,,validado_desde_kml,"Biblioteca del campus, ubicada dentro del edificio principal."
+bar_universitario,Bar universitario,-0.9974830742540556,-78.58334173814266,,,Exterior,0,destination,true,false,,,validado_desde_kml,Área de alimentación del campus. Punto de conexión hacia las canchas y los laboratorios de Automotriz y Petroquímica.
+cancha_2,Cancha 2,-0.9974568168983635,-78.5830786501506,,,Exterior,0,destination,true,false,,,validado_desde_kml,Cancha deportiva situada cerca del bar y del edificio principal.
+laboratorio_petroquimica,Laboratorio de Petroquímica,-0.996914837270749,-78.58299216125043,,,Exterior,0,destination,true,false,,,validado_desde_kml,"Edificio correspondiente al Laboratorio de Petroquímica, ubicado en la zona norte del campus."
+laboratorio_automotriz,Laboratorio de Automotriz,-0.9970546896655753,-78.58368367922282,,,Exterior,0,destination,true,false,,,validado_desde_kml,"Edificio correspondiente al Laboratorio de Automotriz, ubicado cerca del Laboratorio de Petroquímica."
+pileta,Pileta,-0.9978781913701553,-78.58354859926635,,,Exterior,0,destination,true,false,,,validado_desde_kml,Punto de referencia visual ubicado en la zona central del campus.

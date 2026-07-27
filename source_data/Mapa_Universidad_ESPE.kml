@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="18hJ9YjiaQ2TleyG8t1NH2e_o5wPDo0tK">
+	<name>Mapa Universidad Espe</name>
+	<gx:CascadingStyle kml:id="__managed_style_02DFB2708E40C46E12C1_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_02DFB2708E40C46E12C1_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02DFB2708E40C46E12C1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_02DFB2708E40C46E12C1_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_02DFB2708E40C46E12C1_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04EF10BE6840C46DDB71_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04EF10BE6840C46DDB71_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04EF10BE6840C46DDB71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_04EF10BE6840C46DDB71_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04EF10BE6840C46DDB71_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="7d65ff9f_0">
+		<name>Capa sin título</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_04EF10BE6840C46DDB71</styleUrl>
+	</Folder>
+	<Placemark id="0BAD39727F40C46E12B4">
+		<name>Entrada/Salida Universidad</name>
+		<description><![CDATA[<div>Acceso principal al campus ESPE Belisario Quevedo. Punto inicial y final para las rutas hacia el edificio principal, laboratorios y áreas deportivas.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58513993971653</longitude>
+			<latitude>-0.9986878060202251</latitude>
+			<altitude>2736.746056633089</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>658.9701614261867</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNUpUTXF3YTJyVm1aeHM3aWZ2VTlKRUoxQnYyNnZWTDduSjV3ZHJWczFjUTJnbmtmV1dIMitOWWRKd0gvMFdGZVVuWWJVM0ttaHg4Tno5QnVqaFR3NnZBWFJ0NzAwZ1F5dC9yWDJKN1QyRzR4MEFNdHJLNDJQS0kxMzJjYUxCVThXc1JqMm9tR3FqOEEwbDFFaitlbUdkSnhKNXNTSTdwUkFtUUNNRjE0cTR4K1M4RWQ3VFFFUStEbFN1Tm04QVlxSnVXTzROTU1PcVpyZnBQYWlyWmExVk1wNzBmQkJvRkVFWHpuejNWWExVdzlOSjM0SHhjOUhjZTJRekY2Z0l3T289">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR6rUxh88QbVcjtLjo46pL-KgK9kdEh0Hupqy6OrFioqLDmG-o-zfuHm_trsc-RDv2jtD7rLAm0GILC7hnc692urPE1ZWveYagWYX2koG_6fRyJAzDeb0oXRX0nzaXTf-ygGbm0u2fRG2rxKUZfNAxujaBk8ANyaguf2vp79fiBXjqq6qCCHUTZG26XxyibpiTzqwFQWIbnhuxbeY7A8uwptXEuHpxOn7FZKFHFvhNDe1-aCLY4EsLddYnJChsIGNa-UnCTnQjB8ezztAbNJ2a3ILy626hEhreZgkg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58595860136566,-0.998758718754268,2741.640583754596</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09609833C540C47281E3">
+		<name>Ruta/Camino al Edificio principal de la Universidad</name>
+		<LookAt>
+			<longitude>-78.58507054855936</longitude>
+			<latitude>-0.9984082771806714</latitude>
+			<altitude>2736.448428714105</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>659.2677618019662</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58595408078,-0.9987425906643479,0 -78.58579299174309,-0.9987268345413393,0 -78.58555451910932,-0.9987071549098678,0 -78.58539231399222,-0.99867908913689,0 -78.58538825487837,-0.9985080544817155,0 -78.58527039240153,-0.9984347828895892,0 -78.58528256068537,-0.9983165550789146,0 -78.58488659575914,-0.9982713555379625,0 -78.5845339096737,-0.9982219155631918,0 -78.58423040090263,-0.9981972477630443,0 -78.58395080640631,-0.9981724696857707,0 -78.58376023609958,-0.9981557000330521,0 -78.5836484546935,-0.9981514347924838,0 -78.58362132767974,-0.9981248583614634,0 -78.58362625829376,-0.9980567105696843,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0293C1029940C473147F">
+		<name>Entrada/Salida Edificio Principal</name>
+		<description><![CDATA[<div>Acceso principal al edificio central de la universidad. Desde este punto se puede continuar hacia UTICS, biblioteca, bar y otros serviciosLL<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58361069239135</longitude>
+			<latitude>-0.9981040159734823</latitude>
+			<altitude>2732.297226744605</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>663.4189162024995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<Point>
+			<coordinates>-78.5836287763149,-0.9980475979175022,2732.525039000904</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0280323FBB40C473B2AF">
+		<name>Punto para ir al Edificio Principal o Laboratorios</name>
+		<description><![CDATA[<p class="PDq2pG_selectionAnchorContainer">Cruce principal de navegación. Permite continuar hacia el edificio principal o desviarse hacia los laboratorios. Conviene renombrarlo como <b>Cruce edificio principal–laboratorios</b>.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58361069239135</longitude>
+			<latitude>-0.9981040159734823</latitude>
+			<altitude>2732.297226744605</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>663.4189162024995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<Point>
+			<coordinates>-78.58364768409716,-0.9981594951513775,2732.376388182909</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07614B4F4240C474D874">
+		<name>Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion</name>
+		<LookAt>
+			<longitude>-78.58361069239135</longitude>
+			<latitude>-0.9981040159734823</latitude>
+			<altitude>2732.297226744605</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>663.4189162024995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58365179147917,-0.9981430543164682,0 -78.5836518018851,-0.9982499324864593,0 -78.58360657945927,-0.9983199096915469,0 -78.58354896413044,-0.9983611778153143,0 -78.58337171457384,-0.9983326582611611,0 -78.58318602984312,-0.9983080703441209,0 -78.58304535754772,-0.998291744437157,0 -78.58287201289984,-0.9982669957157669,0 -78.58274807856485,-0.9982546408551463,0 -78.58273569630066,-0.9983701887324523,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0007D50E0940C475BFD3">
+		<name>Entrada Laboratorio de Electrónica/Telecomunicaciones</name>
+		<description><![CDATA[<p class="PDq2pG_selectionAnchorContainer">Acceso exterior al laboratorio de Electrónica y Telecomunicaciones.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58361069239135</longitude>
+			<latitude>-0.9981040159734823</latitude>
+			<altitude>2732.297226744605</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>663.4189162024995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNjRuaXVnSEp1aTFFQlYrRTFQUk1HL2lVNnVRenNpWGxCMkJGakpXTTJ3cGx4VEdwR2QvbDZZMnY4cmtSNkU2VU9ZU2JhUnhRSGdiMERmZTJycWFhVCtCcWtlMnBXY2Vua3U3TzQrdUN3SWoyekEyQy9yQ2x3UnpBUnB3US9KdGdOTUhGRFl1dUtHaDNrK3daaGF0a0JqNG5UVU5pemxIREJ2UUhNdFduTXZTOENIRFNmRXdnMnlObUZnRUt6YTVTbWg5SlljQzRtc3FWNWpmMTA1QmJXeGVKZjVzbmJJNjExVjhjZ1lWeWJYR0c5REhBYmxHN0syYm9oL1h1QTcrVTg9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR5IZdy1yvrukeDVDgRsb5pTC19hulwt3EGQJAjBkSbAmSWQMq4ATCF4VmIECqZoVY5tf878IO8N3GtP7wopKJVittsOdHd3XY7t-7y0XEkViWFcqd5qiw0YhCBVrWVEBsi7VhcZX2TbBoyQQZCzOFNbU0cytC8c091L5f73EPll1mEIqwVhiielflq9xDjpfjd_eR1b3llPrxtYe_X4cB64Ur08cI4FP2iA4IFlREJbw2rmaLz3Muj0VpB3dhVGxOk1RLwxL55P7GtOu5rN4pZAhpxDfLhi46Y?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58266553178376,-0.9982463874159303,2729.608962926567</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CC73803E940C4766144">
+		<name>Entrada Laboratorio de Ciencias de la Computación</name>
+		<description><![CDATA[<p class="PDq2pG_selectionAnchorContainer">Acceso exterior al Laboratorio de Ciencias de la Computación.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58361069239135</longitude>
+			<latitude>-0.9981040159734823</latitude>
+			<altitude>2732.297226744605</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>663.4189162024995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNVNxNWl3RU5UTjN2NExORTJ6cURrWGpDK0I0RldnWnVuaXhKekRWZEFRcUdocXdzUGZvczZHcXBZNjMvTCs4WHBicGYrYlNNRm1ITWpzLytyUkMxYmI1bnRZQ1lodktDVGlDdGJxMnVidU5QS293R29CelppZ1RFcnExTEJrcWxWWVNOTmk3Z2x4NWNOR2xuSTRhL3VXYTc4cHlqWHVRYmhxSkE2NXFiVFZnMEJSV0VxeVIyOVJPTDE1WFRrY0NDOUVHSVltQ094b0hkckwvVnZkZVgvMnRTN04xMlFacHpPdCsvS2NjUlhrbVk0d0hzSklTTGtsOHlXSTRGRGhVdHM9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR4PQl2qkab_IXuBzpmIxtPj4eEpE7pgJLaMDb8tcl4OU25XHigjBuA58XOpT7ebL7CNEvKP8_6efKOuV9tMxAoETIKIfiUP2pPeshJPos4CPgnCefj5x4bHt7GgO0t9riskrmdA4DMbHUY7VoSuMvoJWTlbDONKkfh_h6dJF3UdgkJQmO7PRj4aSois6gAHx5DmEylRFLqLFxcV_gwQVPh2nZzxq7M3KlG778IiF-Mt3io91jn77pI-6nWx8TR2GFhbFL6w_dQtQJAdUMeNijPHd6ZrUzIAFFUkzg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58263238033042,-0.9984692794192004,2729.519184641155</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06918C41A040C477C9E6">
+		<name>Ruta a la Plazoleta de la U en donde se desarrolla los minutos civicos</name>
+		<LookAt>
+			<longitude>-78.58294960807724</longitude>
+			<latitude>-0.9981783781959475</latitude>
+			<altitude>2729.901258484024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>665.8148773587164</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58365258495316,-0.9982544197626773,0 -78.583636525671,-0.9984354186953579,0 -78.58380447298123,-0.9984557559298987,0 -78.58378462681351,-0.9986369513247561,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="047B204BDA40C47882E9">
+		<name>Plazoleta de la Universidad</name>
+		<description><![CDATA[<div>Espacio central exterior utilizado para reuniones, eventos y minutos cívicos.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58294960807724</longitude>
+			<latitude>-0.9981783781959475</latitude>
+			<altitude>2729.901258484024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>665.8148773587164</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSN0RFZG5ROFNIRXNGR2xUWjFpa2pJQmNqcmVvdEhTdnp2ckVXdTZDWVlqcEpYNnpwcC84UmlJVzZVdWdNa2swTXpXMEFjOXdWZ0dMZDhiK0VwWVFSaVdOSDExdURZN3hqQmMyQ2VjYnUwanJhVlJVeE8xQTFUOG9aWkEreGZjVkRNOExhNjl0emt6N2h4ZkgwVFdHRThneldvOHhDMGxDVTBSTXExZlBKVGhTM1dUc1NXKzRZeXErQ1ZEby9xNVREejVmZlVHdFlTdU9KajU1c0ZNMDU3U0taSDhkMTBrVC9WaU5hclQwR1U4NDQzVUo1cTZBQlU5TGQzR085NTZlZVE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR7g6V2TE85XOJDoEOzYyjKo5djzIcrmaKehA_BKWSwRpssolVfo8vBRECOF3GLh_CBtOKXXc7LNn2kXQzkTcinVPWoqYEdjAfPX2KGbbIVdYlIqDxw7m9sWbU9yAsAerM4a5J_N2XOv0y6zaB0pA3LSOEFA6boaoFpMl0GEI3E_HWiRrr4B96h8VKzdxaE8DMVn30Fqz5mNQ0-4IKsxbkYn9TEa9N1a_G7-uHno4ou4xiAuHD34gxa_IAdT7OO2GpU5e6wphyi0emFL9iQNBqSZzLmg5E8FgNnjGw?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58377253487572,-0.9986782301297035,2731.659241750254</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0245C976B140C479C588">
+		<name>Ruta para llegar a la cancha 1 de la Universidad</name>
+		<LookAt>
+			<longitude>-78.58383734853649</longitude>
+			<latitude>-0.9982155327740778</latitude>
+			<altitude>2733.456070555595</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>662.2601753001072</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58364411002346,-0.9982792506070449,0 -78.5836440778578,-0.9983491568979755,0 -78.58375517782989,-0.9983531474908642,0 -78.58390712085264,-0.9983653153097669,0 -78.58401792013858,-0.9983694056438748,0 -78.58415337004065,-0.9983776229636637,0 -78.58415743782393,-0.9984719758138222,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08B0B0037540C47A25D1">
+		<name>Cancha 1 de la Universidad</name>
+		<description><![CDATA[<div>Cancha deportiva ubicada junto a la plazoleta y al edificio principal.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58383734853649</longitude>
+			<latitude>-0.9982155327740778</latitude>
+			<altitude>2733.456070555595</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>662.2601753001072</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNHpNS1B4aVNKeGFpdmNUTi92L0t6TXQ3b3NqM1J3SWFqengwR2lMczdhYXBqNzdtMFhWcmN3Y2tvcVZyZUtqSk9Ob2N0aENRZmYvQWY0SzNPU1Z2UitUaXBxdHdCNlFOc2xCYWxBY0JJYkd0WWgybWJ2cDBUS3BBTk1OL2FEbDF2T2hRRlkyN0RyTTZtcXdJUERlUjRZV0tlaXRBUG5odE1qZWJYcUFKZ21kMEhNWWZJZklmVVlHWU40V3JVOHEzYXpDbkNpdXFzYUVZSSs2QzgxK0NSTUtEcGtaR2xmbHFkWGpWbEZmWHJaaWg2TTRnVmVUd0Y5M0xtSjFZWlFIR2M9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR4y9K5nfRA78luPwFTjYdEnj5LuNCnNkoPW4FE0s83aM20FviPVD9t5Wa5O3vN_xPMxIKpcPOFo0u0am3jZTGNrOKwU9DDM_BrUWP62uW8oywlPkf7vPWgnFwgejazL7pY-6rKDYBQrIFv1gJkKbnLcL2TcNxDZMOKJd1GzuIHoKNuspaLeN-br-DlFdGxPmzfgjUj6RhpZWI5dDIF2Wv_GBzuXJdty_hT7DwUNW-Q0391YcZkVkkYdCWUWQyd9WezSd5cLWmu3mjUU-OXY0a-G2VKIuWeqttGPXg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58413294971754,-0.9986937592176673,2733.121208896958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="092D3F887240C47CAB77">
+		<name>Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad</name>
+		<LookAt>
+			<longitude>-78.58387417954206</longitude>
+			<latitude>-0.9984140614331614</latitude>
+			<altitude>2732.993155389352</altitude>
+			<heading>2.519824817756787</heading>
+			<tilt>7.056650167915149</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>356.6992675997608</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58362728051125,-0.9980227325061743,0 -78.58363626157659,-0.9979625461205041,0 -78.58357467068602,-0.9979574374991633,0 -78.58351184722632,-0.9979507705052856,0 -78.58346816518676,-0.9979458159319922,0 -78.58345604727343,-0.9979426842618101,0 -78.58345979386107,-0.9979098189186516,0 -78.58347204460506,-0.9977800260443753,0 -78.58349379904642,-0.9975994599365177,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="061B457EDF40C4809744">
+		<name>Departamento UTICS</name>
+		<description><![CDATA[<p class="PDq2pG_selectionAnchorContainer">Área correspondiente al Departamento de Tecnologías de la Información y Comunicación.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58346510277664</longitude>
+			<latitude>-0.997829175257281</latitude>
+			<altitude>2732.224948220083</altitude>
+			<heading>354.2403924080726</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>132.40357765304</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNXR5eFBCdkNaUitjVUttZFJ5cUJEdk5BWWFXeUhGNXp3VVFuMzlFTUhrNnhvb3Q3ZGM0RThqQjYvL2pqNUg1cVkyd1lNWjJQeElHalA0VjNDOWx6K1UrRzZVVzFSOUNBdjI5VnAwV1NxcHd6Y2JsSXRyR2c5aHcrV2NQRUZKeTgxS1VCa1pYaFhtVXFJa0VNR3I4bDNheFpvNUNyVVlYNjNlQjFNc2Nqd0Q3UUVja3h4aXVKQXprMzVFYkRLT3p3R2R0VkxPRll3anFBU0dsR21vK0VBZXo5L09yVzFZNlI5QUdpemdrTkE3a0pGMFo4VmRxU283LzlFUmdZOWpYYTA9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR6Lpc8VM5xGvK52iMLTcXZJTk4niSbGImJj0vwEa12P5rukQTKtsR1XstXqRISQ3qbaOYupu0o4V7wueWHuMS5ZYj2pcM-A8oWIm4kT47UmT_WfRtCGh6DU-P2Ksk8KulchhSTSfaKU1lyx3O-_dkIdlKxltFfe0yFYriCwNPXtWH8u931OtW5g3jI_sNBTicomLD-N03qVZzD2fJHhcyIodX-S2AyLol60BTH_u4gXxcJcKrUNwTF5nI8aBd_lrkPch4u0cok1TZHn-ch8KmieFdTJrjgwnnlIxQ?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.5836627433229,-0.9979011440069784,2733.021191898541</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0575EE627440C480D794">
+		<name>Biblioteca de la Universidad</name>
+		<description><![CDATA[<div>Biblioteca del campus, ubicada dentro del edificio principal.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58346510277664</longitude>
+			<latitude>-0.997829175257281</latitude>
+			<altitude>2732.224948220083</altitude>
+			<heading>354.2403924080726</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>132.40357765304</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNFVMOXpIa0lkL0djQWg0bk5FUkhkMm1ZZHZLVWh3NUY1NVlrQ1Mxc1Y4bzRkNU50ci9mZnI5MWhCYVQ1LzlHaEx4L096MVR1bFlKN2REYXFjbUR2ZGdWRWZrN3duRm1aOTl3OG1VOEZMRS9OTU1oUkdkQnBEMEorVUtSOFlTRmN0V3NUd3FYWnZVQUVPa0pXNnlPM1lJai9BcHdJcVNLU2RxcHNtNlVCWmZrazg0bEh6VnJYMyswNS9DaFo0VFNXLzg0STA0eTYzT0tndjFnTTZlUm1VTUZmdDlKMkJXWXVUTXpya2x6S1kzK0U3Y1haMHBjemVBS2gvKzBXaHVxRmc9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR69gxNWBj6h5ITDDVWG3ZLgGKJ4cuYU7lzmy58BGKTvWMecR_6XURY1IR2KmaFAoPo1hGjFJV24pAV2kdkiGsKrl4YDBuWr1JbqIJpvTuL4pV6J5ft5udC1wQy_Do29nnQ__rd6bY5np73jdqpE0u2jZcVbVF0bSiMNyIF0lfO8DjQJ64mRnFHA_nDqHJ9dSyO6LeEG0hfbo5-cpnjDjRHRw9i_byTvKHCH-50FPTdSIS5TfCi972YSIM5J8oL708Hl0VpnaaeNBy83GpYaglDQ8T9PBntPwyBrAg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58344682839405,-0.9978467219445676,2732.120141377801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C56DBF72740C48126C4">
+		<name>Bar de la Universidad</name>
+		<description><![CDATA[<div>Área de alimentación del campus. Punto de conexión hacia las canchas y los laboratorios de Automotriz y Petroquímica.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58347818135138</longitude>
+			<latitude>-0.9975348758338168</latitude>
+			<altitude>2732.857247046514</altitude>
+			<heading>354.2403912021759</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>131.7712811537058</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNHE1Z1diL25yMEs1aytIQzFxS2lyaGVqcTlLek5IUkMrcnJrNWxnZDZNWGRaSk0vTDFGL0twbGo1MW9XMXVPeForYVZlWk5UN05NbEhQSFpSR1duN3ZWbFJCNm1ROG1jTTNiWmJrY3pGZnZoa3hialJmWG5WcUZvWGdTNjZkZG5JTm1URU16NmtUQ0ZnTWJ2THdWYzYycDVqSVRwUDArZmd0bkc4dk9leHZiZW04NVRZRkJpdUFULzRLdEVTVkdBQW9qMUZjVXdwOGpiNkZ3YTFWbWVOZDhuajVyTXdiMG1BMzlSU2hDZ3ZQZXByTi96U2RwUGQyOEI2Z09NWjExcUU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR6EBA1h_pHATb9RTN4ZIBMb4YtiX7t6hJQGFW90UyQWA2KDWS7zytOariUGGB0GdNXKcD3rOwVw7YSOj1r7ICarZOS7cpGznEguH32-TKy63purVnjcF7un9irFa8JvlscE1I0vtVIk3FQ_FqiE4Bjg2tc-mfk9vJTlVT7W13NW96Luyb-WfOusHzrXlUnXoBJ4ypdBJLOPdFMrm472DY6bSryjJnnUNuP_8ZJBhtiNfd2d7mbC6_QqJ2p_MrbNDtKOxdtvdyafM9aa6OqHhX0U5MXKthLl97nVaw?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58334173814266,-0.9974830742540556,2732.341880401402</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0809E8513440C4823811">
+		<name>Ruta de entrada al Bar de la Universidad</name>
+		<LookAt>
+			<longitude>-78.58347818135138</longitude>
+			<latitude>-0.9975348758338168</latitude>
+			<altitude>2732.857247046514</altitude>
+			<heading>354.2403912021759</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>131.7712811537058</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58348848803875,-0.997595401444301,0 -78.58343647862509,-0.9975894773869526,0 -78.5833751453078,-0.9975199580634239,0 -78.58335344026662,-0.9974897721617665,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0B6E851EDF40C4831D1C">
+		<name>Ruta para llegar a la Cancha 2 de la Universidad</name>
+		<LookAt>
+			<longitude>-78.58313567078916</longitude>
+			<latitude>-0.9974928927396323</latitude>
+			<altitude>2731.240913493452</altitude>
+			<heading>354.2403827406205</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>133.3876174002581</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58333647643964,-0.9974707175146694,0 -78.5833202178929,-0.997453386862059,0 -78.58329862500003,-0.9974973618095331,0 -78.58327523905049,-0.9974933392517344,0 -78.58324414320705,-0.9974835695068256,0 -78.58318283636994,-0.9974607740750496,0 -78.58310093066102,-0.9974748504132286,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="05FD0F05BF40C48374DF">
+		<name>Cancha 2 de la Universidad</name>
+		<description><![CDATA[<div>Cancha deportiva situada cerca del bar y del edificio principal.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58313567078916</longitude>
+			<latitude>-0.9974928927396323</latitude>
+			<altitude>2731.240913493452</altitude>
+			<heading>354.2403827406205</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>133.3876174002581</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<Point>
+			<coordinates>-78.5830786501506,-0.9974568168983635,2731.197778280636</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B08960B840C4846C33">
+		<name>Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion</name>
+		<LookAt>
+			<longitude>-78.5832032254974</longitude>
+			<latitude>-0.9979626204823553</latitude>
+			<altitude>2730.838775405175</altitude>
+			<heading>354.240366309677</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>199.6518872402521</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58345240010017,-0.9979438635930971,0 -78.58352160687001,-0.9979509199739012,0 -78.58351581756168,-0.9980219236393703,0 -78.58350174257302,-0.9980773390294182,0 -78.58348966878802,-0.9981256234456738,0 -78.58346121943896,-0.9981414890355161,0 -78.58340263586406,-0.9981357607829205,0 -78.58331963144049,-0.9981251335924677,0 -78.58323271218239,-0.998114214791752,0 -78.5831576429905,-0.998105663337255,0 -78.5830865619031,-0.9980935518780543,0 -78.58302038767357,-0.9980932362864762,0 -78.5829538434765,-0.9981316722954668,0 -78.58286515378599,-0.998155285420838,0 -78.58279960997328,-0.99819628131656,0 -78.58274892689232,-0.9982239462319316,0 -78.58274415673772,-0.9982573619904335,0 -78.58273553564155,-0.998366723087199,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0544E060D240C485C330">
+		<name>Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2</name>
+		<LookAt>
+			<longitude>-78.58324818718722</longitude>
+			<latitude>-0.9969057416107019</latitude>
+			<altitude>2732.987502220935</altitude>
+			<heading>354.2403575404231</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>470.6492462505412</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58307599724331,-0.9974806374139557,0 -78.58306357404915,-0.9975549512763527,0 -78.58313036709723,-0.9975692852599742,0 -78.58311637961179,-0.9976472225296782,0 -78.58309710762641,-0.9977533105287016,0 -78.58307324234497,-0.9978429933121336,0 -78.58303489883124,-0.9979152062890915,0 -78.58300659856545,-0.9979860195063541,0 -78.58299430829877,-0.9980709871020275,0 -78.58296818663788,-0.9981198167894942,0 -78.58284853188431,-0.9981416647521262,0 -78.58276298981448,-0.9981708217318654,0 -78.58275331702571,-0.9982163141248277,0 -78.58274525801859,-0.9982633745381424,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="022E13255340C4877479">
+		<name>Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar</name>
+		<LookAt>
+			<longitude>-78.58351360107216</longitude>
+			<latitude>-0.9971941262438825</latitude>
+			<altitude>2733.653179857401</altitude>
+			<heading>354.2403430542749</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>469.9835392417299</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.58349277518161,-0.997604121979578,0 -78.58350508390905,-0.9974819509201075,0 -78.58352753398833,-0.9973463466569719,0 -78.58353773157273,-0.9972741211595828,0 -78.58354677197114,-0.9971843087282427,0 -78.58330619995594,-0.9971277578236662,0 -78.58306000537794,-0.9970881506304585,0 -78.58295632803927,-0.9970659257343895,0 -78.58298413363661,-0.9969395553836382,0 -78.58295722345706,-0.9970572019349052,0 -78.58305127853438,-0.9970872705124857,0 -78.58330590389187,-0.997130659796961,0 -78.58354706347009,-0.997181413264191,0 -78.58366701980238,-0.9972081379940912,0 -78.58368001288763,-0.9970781130467155,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0BCCD7742740C48824A3">
+		<name>Laboratorio de Petroquímica</name>
+		<description><![CDATA[<div>Edificio correspondiente al Laboratorio de Petroquímica, ubicado en la zona norte del campus.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58350581034901</longitude>
+			<latitude>-0.997081982924766</latitude>
+			<altitude>2733.875750441039</altitude>
+			<heading>354.2403274756306</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>469.7609879326774</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNG00amhFSFp1NklkeTVNb1B0a2ZWZnRjZUR1OWJ5dEY5N1QzdWlDa3BWZ2Z0Mnk0dHVmeGR5UzhNNmRlNlhaLytnbFErdVRxZkgvN1h6bHlzeVhoK1ZYZ0hIZ3hGcG9Gam1xSVd5bjZjRnlWOGVnMDJGekdib0V5Smd4R1JURWpvZ0sySWdZZkxXNkU5ako0VGJpVlpEczdKRmxmaGVUbHpZRlgxV0s5K3BJb2hwR3pWTVluRHdpTmcrRExhUUtUVHNyUzZSaEs3a1Q3Ly92Mjd2WmNhQVowZ1dzVGpvV2VzK2VVUm1TeTNSSFpSb2NhTmJHclB2L0J4bEVjRDFUSms9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR4PyYG3dxMkLloeYCUemXAZDsTrwIdhT2U7GXTV9IJ5NM9eqHPxw7dnX8ft9Q_FrxCazvHfZiIjMyxovG3PfHJ5LmjTyu4s01dqxthn_Kn9hfo9cVjamsZuj91LSMYwhZF66xeuz0l_D0dtjOYMwdgRlhBpkhAyG95Sjr9W5ut7NDcIwyXdedboOF7Yaw-JW-dfHVADBnpo9LuGnrNWbE3pCDKMHsD3Nu-wWCh9_11kJzmAWdZAyep78TyLsm2jy4HVsSTWUS3v8BBX0U-hzERhgBv_9zd3zyVbdA?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58299216125043,-0.996914837270749,2732.076327800053</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7A75921A40C4886F74">
+		<name>Laboratorio de Automotriz</name>
+		<description><![CDATA[<div>Edificio correspondiente al Laboratorio de Automotriz, ubicado cerca del Laboratorio de Petroquímica.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58350581034901</longitude>
+			<latitude>-0.997081982924766</latitude>
+			<altitude>2733.875750441039</altitude>
+			<heading>354.2403274756306</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>469.7609879326774</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNW9wNXhlVkpBTGVXdS9TcE5ZQ1ZjV0FlWWNiL3pKUUpYbkxDTnJrd1U0bDJwc3R5MWVta2ZtU0JmcEFBbHJjcDQzL3VNTWs4ZjJNT0F0QmtWQzRnN1AxN0I1YUgvSHdaU3NPdHBVWmc3OG81SjZrVjBWeGExNW5qSGNnaDF6TFAzZUlNZ0hwZDFzRzFjYXhtODl1VENRUWcyaEVyREhTUEM0b3o4bUo3aHh2dXR6alF5MEVsK3FiK1VxQitNVDBXcFFCbGVHWDM2QTd0Z2t0S3pUbGtwengxNVdBaXRDSG5kcG1Wa0dZZStaWHVtM0JXL3dXYnBxQ0dEWStjZGxNM1k9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR4tVw5ugeOIUXM_7wvKL4tf2fMp9imrtywBMN0PWoqwPcFHfXA9Zec4UMVaf8h7xsfZdrwsvZlMX5Nd5gP2Puzop7ezNvvaSDYGEJpa70lYN2fIKFUMvy3zAjyqopTnLzKiF9BUauEdLdakFpHuy7DfB-XRf4k6YajkplPbfxT5GFO1VaNTUTQLDoTedF5fcCoyn_wwAa1vkD5l8tvO7X4YnH1hFOQ7HL6_MKNReAoxvhg4HUV03za0_n2eK-OmgjNTCFTWSK7Nx29s_GCTTVw9amf4YaTd4Uk?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58368367922282,-0.9970546896655753,2734.984801225698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A98FA010640C48A5950">
+		<name>Pileta de la Universidad</name>
+		<description><![CDATA[<div>Punto de referencia visual ubicado en la zona central del campus.<br></div>]]></description>
+		<LookAt>
+			<longitude>-78.58354008412817</longitude>
+			<latitude>-0.9978568881514033</latitude>
+			<altitude>2732.519809294753</altitude>
+			<heading>354.2403070513856</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>184.6825767497467</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02DFB2708E40C46E12C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUFqUWJSNnlkcWc1MW5SZHJxb2hQR2wxbER6bWlkOWh3TUI2dVkxay83MXV6NjkrWlRTOHVaRndvaVV4R2dIaGNJa2VzVysxaVR2ck5tczJGWkZXN0paZUlGVjN4OGpsQ29FVG5LNGdHOXcwR3oxM2E5Yld5aDlLVGdCV3RmQWc0Q1dEOW0wR2ZFS3VkRjlQZWt4UktxYWhtWHo0bnFWL04rN1A2YVYydEgrMzc5VU15Z2dFNXlqNUg5NmdKYjRwRVpLclhPeXllcEV4eXhiRlVnNlBuY2hqeFpiMzhUTzhpVFY4bXFZcU9VOGs2K1l2TUs4MnZLM3oyaW1lMk9Qa1pqTnh2SEU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AAjQbR7MKOoDo_i4s27-cHLD8y5I5oBtPW0szAOtTDULJ7Imkq3FTlsHQ3bg6QkERoFjdNAYrjLSBXXj-LceCkPslv5lTLxdpE9V0hkGUcDOnkunADkfCD_ZW4-g_f7z4U3S4NCgwhnoB893S6Pj26JdE-ov2cYNKhVxjQ1JfY9Bef2PqJHKjF0idIU1P1VBTFjAdQ4RUZerPYnE8Gm8RAb5miJignQU3g2bN5AAH2vZJbtPwBNmlat6BAn6yag2gHy93W0ZSyrjulwDLa2rVdm_YFNVG7PZRB7nPDl7qg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-78.58354859926635,-0.9978781913701553,2732.522224381084</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,18 @@
+VALIDACIÓN DEL PROYECTO CAMPUS AR ESPE — VERSIÓN AR FINAL
+
+- Datos del campus conservados: 93 nodos, 95 conexiones y 13 destinos.
+- Bar universitario presente como destino y conectado al grafo.
+- Interfaz sin mapa 2D, usuarios, inicio de sesión ni herramienta de mapeo.
+- Navegación a pantalla completa con cámara, GPS y brújula.
+- Flecha única con apariencia tridimensional, sombra y rotación suavizada.
+- Tarjeta de siguiente instrucción y distancia restante.
+- Indicaciones por voz mediante flutter_tts.
+- Baliza virtual animada al aproximarse a menos de 75 metros.
+- Recalculo de ruta y seguimiento por puntos.
+- Llegada estable, pantalla verde, puerta virtual, vibración, sonido y voz.
+
+La compilación debe comprobarse en un equipo con Flutter mediante:
+flutter clean
+flutter pub get
+flutter analyze
+flutter build apk

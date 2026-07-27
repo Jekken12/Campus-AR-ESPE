@@ -1,0 +1,96 @@
+﻿from,to,distance_meters,bidirectional,type,accessible,validation_status,notes
+camino_001,camino_002,18.0,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_002,camino_003,26.6,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_003,camino_004,18.3,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_004,camino_005,19.02,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_005,camino_006,15.43,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_006,camino_007,13.22,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_007,camino_008,44.31,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_008,camino_009,39.59,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_009,camino_010,33.85,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_010,camino_011,31.21,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_011,camino_012,21.27,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_012,camino_013,12.44,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_013,camino_014,4.22,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_014,camino_015,7.6,true,outdoor_path,true,validado_desde_kml,Ruta/Camino al Edificio principal de la Universidad
+camino_013,camino_016,10.96,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_016,camino_017,9.26,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_017,camino_018,7.88,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_018,camino_019,19.96,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_019,camino_020,20.82,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_020,camino_021,15.74,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_021,camino_022,19.47,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_022,camino_023,13.85,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_023,camino_024,12.92,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios Electrica/Telecomunicaciones/Computacion
+camino_016,camino_025,20.69,true,outdoor_path,true,validado_desde_kml,Ruta a la Plazoleta de la U en donde se desarrolla los minutos civicos
+camino_025,camino_026,18.81,true,outdoor_path,true,validado_desde_kml,Ruta a la Plazoleta de la U en donde se desarrolla los minutos civicos
+camino_026,camino_027,20.27,true,outdoor_path,true,validado_desde_kml,Ruta a la Plazoleta de la U en donde se desarrolla los minutos civicos
+camino_016,camino_028,11.07,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_028,camino_029,12.36,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_029,camino_030,16.95,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_030,camino_031,12.33,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_031,camino_032,15.09,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_032,camino_033,10.5,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la cancha 1 de la Universidad
+camino_015,camino_034,10.53,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_034,camino_035,6.87,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_035,camino_036,7.02,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_036,camino_037,4.89,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_037,camino_038,4.11,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_038,camino_039,14.5,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_039,camino_040,20.22,true,outdoor_path,true,validado_desde_kml,Ruta por dentro del Edificio principal de la Universidad en donde por dentro encontraremos el departamento de Utics/Biblioteca/Bar de la universidad
+camino_040,camino_041,6.47,true,outdoor_path,true,validado_desde_kml,Ruta de entrada al Bar de la Universidad
+camino_041,camino_042,10.31,true,outdoor_path,true,validado_desde_kml,Ruta de entrada al Bar de la Universidad
+camino_042,camino_043,4.13,true,outdoor_path,true,validado_desde_kml,Ruta de entrada al Bar de la Universidad
+camino_043,camino_044,5.48,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la Cancha 2 de la Universidad
+camino_044,camino_045,5.45,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la Cancha 2 de la Universidad
+camino_045,camino_046,6.25,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la Cancha 2 de la Universidad
+camino_046,camino_047,7.27,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la Cancha 2 de la Universidad
+camino_047,camino_048,9.24,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a la Cancha 2 de la Universidad
+camino_036,camino_049,7.92,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_049,camino_050,6.36,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_050,camino_051,5.53,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_051,camino_052,9.74,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_052,camino_053,9.3,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_053,camino_054,9.74,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_054,camino_055,8.4,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_055,camino_056,8.02,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_056,camino_057,7.36,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_057,camino_058,8.54,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_058,camino_059,10.2,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_059,camino_060,8.6,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_060,camino_023,8.66,true,outdoor_path,true,validado_desde_kml,Ruta para llegar desde dentro del Edificio principal a los laboratorios de Electrica/Telecomunicaciones/Computacion
+camino_048,camino_061,9.83,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_061,camino_062,7.6,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_062,camino_063,8.8,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_063,camino_064,11.99,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_064,camino_065,10.32,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_065,camino_066,9.09,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_066,camino_067,8.48,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_067,camino_057,12.02,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_059,camino_068,11.49,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_068,camino_069,5.17,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_069,camino_023,4.3,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los laboratorios de Electrica/Telecomunicaciones/Computacion desde la cancha 2
+camino_040,camino_070,13.13,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_070,camino_071,15.28,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_071,camino_072,8.11,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_072,camino_073,10.04,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_073,camino_074,27.48,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_074,camino_075,27.72,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_075,camino_076,11.79,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_076,camino_077,14.39,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_073,camino_078,13.63,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+camino_078,camino_079,14.53,true,outdoor_path,true,validado_desde_kml,Ruta para llegar a los Laboratorios de Petroquimica y Automotriz desde el Bar
+entrada_universidad,camino_001,1.86,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Entrada principal” con la ruta más cercana.
+entrada_edificio_principal,camino_015,1.05,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Edificio principal” con la ruta más cercana.
+cruce_principal_laboratorios,camino_013,0.9,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Cruce principal–laboratorios” con la ruta más cercana.
+laboratorio_electronica,camino_023,9.22,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Laboratorio de Electrónica y Telecomunicaciones” con la ruta más cercana.
+laboratorio_computacion,camino_024,15.92,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Laboratorio de Ciencias de la Computación” con la ruta más cercana.
+plazoleta,camino_027,4.78,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Plazoleta” con la ruta más cercana.
+cancha_1,camino_033,24.81,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Cancha 1” con la ruta más cercana.
+utics,camino_034,7.44,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Departamento UTICS” con la ruta más cercana.
+biblioteca,camino_038,7.16,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Biblioteca” con la ruta más cercana.
+bar_universitario,camino_043,1.5,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Bar universitario” con la ruta más cercana.
+cancha_2,camino_048,3.19,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Cancha 2” con la ruta más cercana.
+laboratorio_petroquimica,camino_077,2.89,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Laboratorio de Petroquímica” con la ruta más cercana.
+laboratorio_automotriz,camino_079,2.64,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Laboratorio de Automotriz” con la ruta más cercana.
+pileta,camino_036,9.05,true,outdoor_path,true,validado_desde_kml,Conexión del punto “Pileta” con la ruta más cercana.
